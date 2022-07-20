@@ -1,0 +1,17 @@
+.Header{
+    font-size:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+
+}
+.The Avengers{
+    display:inline-block;
+    text-align:center;
+}
+ul{
+    display:inline-block;
+    text-align:left;
+}
+body{
+    background-color:#c4b7a6;
+}
